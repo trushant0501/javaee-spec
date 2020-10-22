@@ -20,7 +20,7 @@ Users the right to post, access, discuss, use, publish, disseminate,
 and refine Your Submissions.
 
 In legalese: *You hereby grant to Oracle and all 
-Users a royalty-free, perpetual, irrevocable, worldwide, non-exclusive, 
+Users a royalty-free, perpetual, immutable, worldwide, non-exclusive, 
 and fully sub-licensable right and license, under Your intellectual 
 property rights, to reproduce, modify, adapt, publish, translate, create 
 derivative works from, distribute, perform, display, and use Your 
